@@ -1,4 +1,4 @@
-# Redis
+# Redis on CentOS 7
 # How to use this image
 start a redis instance
 
